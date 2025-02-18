@@ -21,8 +21,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd reddit-to-telegram-bot
+git clone https://github.com/hppdenjoyer/telegram_reddit_bot
+cd telegram_reddit_bot
 ```
 2. Установите зависимости:
 ```bash
